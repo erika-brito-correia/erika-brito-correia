@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width="100%" src="assets/header.svg" alt=""/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=32&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Érika+Brito;AI+Builder+%26+Process+Automation+Engineer;I+build+AI+agents+that+run+in+production;Electrical+Engineering+%7C+IEEE+%7C+WoMakersCode)](https://git.io/typing-svg)
+<p align="center"><img src="assets/intro.svg" alt="Hello, I'm Érika Brito - AI Builder"/></p>
 
 ## 👩‍💻 About me
 
@@ -92,4 +92,4 @@ Google Data Analytics (capstone case study) · Automating Processes with n8n · 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9rika-brito-correia/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3r1k4_brito/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=100&section=footer"/>
+<img width="100%" src="assets/footer.svg" alt=""/>
